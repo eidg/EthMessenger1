@@ -17,6 +17,45 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myUint8",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_myUint",
+						"type": "uint256"
+					}
+				],
+				"name": "setMyUint",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint8",
+						"name": "_myUint8",
+						"type": "uint8"
+					}
+				],
+				"name": "setMyUint8",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -47,11 +86,11 @@
 	},
 	"sources": {
 		"contracts/EthUint.sol": {
-			"keccak256": "0x478817864723b0e39b5c3a4b2a08ac02f2a7c64d759e654108e77b0071db9a93",
+			"keccak256": "0x6446ac858409bd203b515f2748f525218e9761263f3f3f520bac1aa7aad68d47",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c5afa5936f955c25bf05063b53c61da87c899df7e34be08bc0b4610fbe49b1f1",
-				"dweb:/ipfs/QmRe5KHHgYrN24aKSX3sMDfnEKgKqMzrJiK3iNRRxByR3h"
+				"bzz-raw://4b41c0fb24351bd8e60bb10c589d2e0a9447ec1275e45f2c743ffb8530e484a4",
+				"dweb:/ipfs/QmUuvXnEpZ5fmnTDhnVSsiaXNjp1fdQJt1yCpGGoGPJRRJ"
 			]
 		}
 	},
