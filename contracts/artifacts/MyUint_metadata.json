@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "myInt",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "myUint",
 				"outputs": [
 					{
@@ -29,6 +42,19 @@
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "_myint",
+						"type": "int256"
+					}
+				],
+				"name": "setMyInt",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
@@ -86,11 +112,11 @@
 	},
 	"sources": {
 		"contracts/EthUint.sol": {
-			"keccak256": "0x6446ac858409bd203b515f2748f525218e9761263f3f3f520bac1aa7aad68d47",
+			"keccak256": "0x6fa2a2599604febfb1fd83d27e558f6e9d979f2aa2d49d3b31bd644bf57280f6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4b41c0fb24351bd8e60bb10c589d2e0a9447ec1275e45f2c743ffb8530e484a4",
-				"dweb:/ipfs/QmUuvXnEpZ5fmnTDhnVSsiaXNjp1fdQJt1yCpGGoGPJRRJ"
+				"bzz-raw://010720b337d569d7ee19c9c5e428b8676305e65707f377870d8191a8a7b3247b",
+				"dweb:/ipfs/Qmc8SsebLqknWgKymZJsg7NYnnsUgEXrSziG45JJfjt9Pc"
 			]
 		}
 	},

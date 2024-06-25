@@ -9,6 +9,9 @@ contract MyUint {
 
     uint8 public myUint8;
 
+    //declare a signed integer
+    int public myInt;
+
     //setter function
     function setMyUint(uint _myUint) public {
         myUint = _myUint;
@@ -16,6 +19,11 @@ contract MyUint {
 
     function setMyUint8(uint8 _myUint8) public {
         myUint8 = _myUint8;
+    }
+
+    //setter for signed integer
+    function setMyInt(int _myint) public {
+        myInt = _myint;
     }
 
 }
