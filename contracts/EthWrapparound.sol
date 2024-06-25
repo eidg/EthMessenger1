@@ -35,7 +35,10 @@ contract MyUint {
 
     //Uint decrementer function
     function decrementUint() public {
-        myUint8--;
+        unchecked {
+            myUint8--;
+        }
+        
     }
 
 }

@@ -126,11 +126,11 @@
 	},
 	"sources": {
 		"contracts/EthWrapparound.sol": {
-			"keccak256": "0x87640c09199428f5e4f66e832d823298fddf54a94eb6a23fd0d3922b7ee3b663",
+			"keccak256": "0xc7841d7b5a2ce4c3d31bd892ce203c13ef3074fb5ebe24b28b66afcf47077dfe",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f1819ae8926ef403185827afc1dfc1e676b5368974a0756f553c53e72adc34db",
-				"dweb:/ipfs/QmXmbraQRntcAbuf8Hb6YvsLCL1NPViAh3LmrKes6KLXCB"
+				"bzz-raw://25787b91ee6654002854720b89d28ad33eebeac433921bdeb6fa7b4ac5d4ea0e",
+				"dweb:/ipfs/QmeX4QEWYE2RT814YUcBRdMD4Bp7cPJ5vniTnysmjN1Brp"
 			]
 		}
 	},
