@@ -7,6 +7,13 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "incrementInt",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "myInt",
 				"outputs": [
 					{
@@ -112,11 +119,11 @@
 	},
 	"sources": {
 		"contracts/EthUint.sol": {
-			"keccak256": "0x6fa2a2599604febfb1fd83d27e558f6e9d979f2aa2d49d3b31bd644bf57280f6",
+			"keccak256": "0xf923588595a80ae1fea2fd72a4bfb20a86496b8a2a9a80bdfe6d2cecf4f0e8f3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://010720b337d569d7ee19c9c5e428b8676305e65707f377870d8191a8a7b3247b",
-				"dweb:/ipfs/Qmc8SsebLqknWgKymZJsg7NYnnsUgEXrSziG45JJfjt9Pc"
+				"bzz-raw://2145cc86e0d504862f926b1ec172ff86c4882bb19d79000ba40683d3ddf2f7bf",
+				"dweb:/ipfs/QmW4zJX7CHodArqXemrC9B1SkN3uqKNWmKUKrv9G1b1wPD"
 			]
 		}
 	},

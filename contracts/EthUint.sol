@@ -26,4 +26,11 @@ contract MyUint {
         myInt = _myint;
     }
 
+    //Int incrementer function
+    function incrementInt() public {
+
+    myInt++;
+            
+    }
+
 }
