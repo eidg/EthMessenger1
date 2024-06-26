@@ -35,7 +35,10 @@ contract CombinedContract {
 
     //create a function to decrement the Uint
     function decrementUint() public {
-        TestUint--;
+        unchecked{
+            TestUint--;
+        }
+        
     }
 
 }

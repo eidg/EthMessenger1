@@ -126,11 +126,11 @@
 	},
 	"sources": {
 		"contracts/EthBoolUint.sol": {
-			"keccak256": "0x079dbc06ff5af94a625c6f99cd859dbef01c48485d538e20a429250c69e9bc90",
+			"keccak256": "0xcdab3af791943a8e9b933c2dac09f730c634d349930eae61db544c9203551ee7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2ccb78cfe93d800539f9ddf34b9723162a0928056a631c2cf750975464334a48",
-				"dweb:/ipfs/QmUP6t14CRjtumxvDgRoeHbGHcZsyWsMoha27ypPjkGufE"
+				"bzz-raw://1e77f92584c0547eddad4934ca55438453c1a81e9b0be6936b3cc5ad5ca23eda",
+				"dweb:/ipfs/QmR51Pm1AV8zdSpmd55GNmJqKx2gNrDcL4aAW4UsgydrWr"
 			]
 		}
 	},
