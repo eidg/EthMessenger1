@@ -21,4 +21,8 @@ contract EthStrings {
         myByte = _myByte;
 
     }
+
+    function getBytesLength() public view returns(uint) {
+        return myByte.length;
+    }
 }

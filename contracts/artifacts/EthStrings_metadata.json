@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "getBytesLength",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "myByte",
 				"outputs": [
 					{
@@ -86,11 +99,11 @@
 	},
 	"sources": {
 		"contracts/EthStrings.sol": {
-			"keccak256": "0x901d0fcb48534b278914ac13323b07f88023d8ca6b9a012dbf37490b46965d00",
+			"keccak256": "0xbf870162d7c527c66b1b18369e5494312f76892cb91b8cb901971f5d3dfc7744",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4e2be7378c0b7bc18025f66352232e743e22a0b38be5e50fcef1b1921b1c294a",
-				"dweb:/ipfs/QmZbxChuhHpZSypCXF57rgfbcP5ckqFAtiXfBThiFN9YTY"
+				"bzz-raw://09158e79a6b9f67c44ab72fc94526715c6376a167b2983da5e585daea4451836",
+				"dweb:/ipfs/QmQ7Uko9jHg3CBykqkYo7S455JxdRhobhEdeqXKZSnrE7C"
 			]
 		}
 	},
