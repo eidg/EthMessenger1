@@ -7,12 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "myBoolean",
+				"name": "myString",
 				"outputs": [
 					{
-						"internalType": "bool",
+						"internalType": "string",
 						"name": "",
-						"type": "bool"
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
@@ -21,12 +21,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "bool",
-						"name": "_myBoolean",
-						"type": "bool"
+						"internalType": "string",
+						"name": "_myString",
+						"type": "string"
 					}
 				],
-				"name": "setMyBoolean",
+				"name": "setMyString",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/EthJ26P.sol": "EthJ26P"
+			"contracts/EthStrings.sol": "EthStrings"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/EthJ26P.sol": {
-			"keccak256": "0x533434c33c42367bbe6b817272d6b86be7e80dee4ce2c682056cb2afa99434cc",
+		"contracts/EthStrings.sol": {
+			"keccak256": "0x67915dbef0cd31f612943c5b90f945ad5f7410483d4b08b6b5cf9456ff19df2f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9599de9f04c277ee8e20b3b07472cd9fe46fbcc41df3a67178877f64968bcd8e",
-				"dweb:/ipfs/QmcuYpR4JcQYqPPkszHuv1pqLxZgojojwkYUbNJedKVC5Z"
+				"bzz-raw://72d18f16e914a9885efded007bdc325770586116539a20878f8678bc88e8330b",
+				"dweb:/ipfs/Qma8CxfymfFvULHrdFVzU2buywbPdh7HXV1YCe4DrgqKin"
 			]
 		}
 	},
