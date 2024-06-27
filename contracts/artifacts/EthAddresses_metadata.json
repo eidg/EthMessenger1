@@ -43,6 +43,19 @@
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "someAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -73,11 +86,11 @@
 	},
 	"sources": {
 		"contracts/EthAddresses.sol": {
-			"keccak256": "0x12f9b83ca2895de3d2a2a0cc5a8d44f176f16c946c40e139cc1ef0caa7b2afce",
+			"keccak256": "0x2ab357064e5db256f8d57d8a940817e3866060326baacbd76545c59cfda3a7b9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0eecc422c6ffd1313d52e002a7c52ab996309ba8aac5c991e11eab017378d826",
-				"dweb:/ipfs/QmeHWx2oG1xifHPRGoNzGH3stVvu8e8WaxvngUqY8ZYZca"
+				"bzz-raw://559988d0bc5798604e539ef6061a88268fa7a2b9ecf42e83243a012ae96a8acb",
+				"dweb:/ipfs/QmRED94SwZK4A1Z3FGLZnm5A3zeMRtpf4zy6W1aJy3X6dh"
 			]
 		}
 	},

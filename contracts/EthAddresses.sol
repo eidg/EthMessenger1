@@ -19,4 +19,7 @@ contract EthAddresses {
 
     }
 
+    address public someAddress;
+
+
 }
