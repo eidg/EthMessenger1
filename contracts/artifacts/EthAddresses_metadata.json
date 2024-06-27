@@ -6,13 +6,7 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
+				"inputs": [],
 				"name": "getAddressBalance",
 				"outputs": [
 					{
@@ -79,11 +73,11 @@
 	},
 	"sources": {
 		"contracts/EthAddresses.sol": {
-			"keccak256": "0x1cf1074d5a31a73160b59f5463d70dee1c19c07824bd0dca951cd5d2de12084e",
+			"keccak256": "0x12f9b83ca2895de3d2a2a0cc5a8d44f176f16c946c40e139cc1ef0caa7b2afce",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c7f1d4082662b404a91af2f0264e792cd4546f27a9a9d3187c3c3f3ed1a68e86",
-				"dweb:/ipfs/QmZ5dS3ExXU8S3QuGbyBXsuQ4ZAVPYfzaY1QbNuCEhRbgQ"
+				"bzz-raw://0eecc422c6ffd1313d52e002a7c52ab996309ba8aac5c991e11eab017378d826",
+				"dweb:/ipfs/QmeHWx2oG1xifHPRGoNzGH3stVvu8e8WaxvngUqY8ZYZca"
 			]
 		}
 	},

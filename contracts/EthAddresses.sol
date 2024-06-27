@@ -13,7 +13,7 @@ contract EthAddresses {
     }
 
     //getter function to get the balance of the address
-    function getAddressBalance (uint) public view returns(uint) {
+    function getAddressBalance () public view returns(uint) {
 
         return myAddress.balance;
 
