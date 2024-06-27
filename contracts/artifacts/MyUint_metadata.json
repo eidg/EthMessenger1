@@ -7,13 +7,6 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "decrementUint",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "incrementInt",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -111,7 +104,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/EthWrapparound.sol": "MyUint"
+			"contracts/EthUint.sol": "MyUint"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -125,12 +118,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/EthWrapparound.sol": {
-			"keccak256": "0xc7841d7b5a2ce4c3d31bd892ce203c13ef3074fb5ebe24b28b66afcf47077dfe",
+		"contracts/EthUint.sol": {
+			"keccak256": "0xf923588595a80ae1fea2fd72a4bfb20a86496b8a2a9a80bdfe6d2cecf4f0e8f3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://25787b91ee6654002854720b89d28ad33eebeac433921bdeb6fa7b4ac5d4ea0e",
-				"dweb:/ipfs/QmeX4QEWYE2RT814YUcBRdMD4Bp7cPJ5vniTnysmjN1Brp"
+				"bzz-raw://2145cc86e0d504862f926b1ec172ff86c4882bb19d79000ba40683d3ddf2f7bf",
+				"dweb:/ipfs/QmW4zJX7CHodArqXemrC9B1SkN3uqKNWmKUKrv9G1b1wPD"
 			]
 		}
 	},

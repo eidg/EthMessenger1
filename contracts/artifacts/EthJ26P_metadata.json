@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myBoolean",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "_myBoolean",
+						"type": "bool"
+					}
+				],
+				"name": "setMyBoolean",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EthJ26P.sol": "EthJ26P"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EthJ26P.sol": {
+			"keccak256": "0xe549ae6887acd6c5ffe460284f36cffb734725995d442ea2862c5f59bef6349f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://422e5d56dbb76fae517cc382e1b3b62ff9e396270943786f9c7a084d82e7574a",
+				"dweb:/ipfs/QmQfTMoq2DQzMQYKqsJsaUCdrTK9eSows9dPKi9RrtBruY"
+			]
+		}
+	},
+	"version": 1
+}
