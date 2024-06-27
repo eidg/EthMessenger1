@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "myByte",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "myString",
 				"outputs": [
 					{
@@ -16,6 +29,19 @@
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bytes",
+						"name": "_myByte",
+						"type": "bytes"
+					}
+				],
+				"name": "setMyBytes",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
@@ -60,11 +86,11 @@
 	},
 	"sources": {
 		"contracts/EthStrings.sol": {
-			"keccak256": "0x67915dbef0cd31f612943c5b90f945ad5f7410483d4b08b6b5cf9456ff19df2f",
+			"keccak256": "0x901d0fcb48534b278914ac13323b07f88023d8ca6b9a012dbf37490b46965d00",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://72d18f16e914a9885efded007bdc325770586116539a20878f8678bc88e8330b",
-				"dweb:/ipfs/Qma8CxfymfFvULHrdFVzU2buywbPdh7HXV1YCe4DrgqKin"
+				"bzz-raw://4e2be7378c0b7bc18025f66352232e743e22a0b38be5e50fcef1b1921b1c294a",
+				"dweb:/ipfs/QmZbxChuhHpZSypCXF57rgfbcP5ckqFAtiXfBThiFN9YTY"
 			]
 		}
 	},

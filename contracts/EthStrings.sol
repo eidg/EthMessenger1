@@ -11,4 +11,14 @@ contract EthStrings {
         myString = _myString;
 
     }
+
+    //declare byte as a string alternative
+    bytes public myByte = "Hello World";
+
+    //byte variable setter
+    function setMyBytes (bytes memory _myByte) public {
+
+        myByte = _myByte;
+
+    }
 }
