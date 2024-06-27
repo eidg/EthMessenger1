@@ -99,11 +99,11 @@
 	},
 	"sources": {
 		"contracts/EthStrings.sol": {
-			"keccak256": "0xbf870162d7c527c66b1b18369e5494312f76892cb91b8cb901971f5d3dfc7744",
+			"keccak256": "0xb5e8d67ae96ae298afa85ec21a298da9435c8224894eb348bde45d5abed9dae2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://09158e79a6b9f67c44ab72fc94526715c6376a167b2983da5e585daea4451836",
-				"dweb:/ipfs/QmQ7Uko9jHg3CBykqkYo7S455JxdRhobhEdeqXKZSnrE7C"
+				"bzz-raw://88e97e2015f14607c1d7d7d781249c062045ae1f3c7ae2a23e9d1f05fd8b7d22",
+				"dweb:/ipfs/QmfPSqofnVEA7HGvr6ddFdUggohH2WksiwnQHfQY9j9A3f"
 			]
 		}
 	},

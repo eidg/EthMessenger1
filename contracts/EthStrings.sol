@@ -13,7 +13,7 @@ contract EthStrings {
     }
 
     //declare byte as a string alternative
-    bytes public myByte = "Hello World";
+    bytes public myByte = "Jason";
 
     //byte variable setter
     function setMyBytes (bytes memory _myByte) public {
