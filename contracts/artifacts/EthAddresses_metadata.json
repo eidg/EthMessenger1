@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EthAddresses.sol": "EthAddresses"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EthAddresses.sol": {
+			"keccak256": "0x45c62bc0c5c23ee6c4e3f2a0e83d1b6b88232ea04b12855629d3b1e64ca1920d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8579ad827ddd02d3ad302d506055eefe50fea7fe7cbb53a860f6b53ea8e30dd8",
+				"dweb:/ipfs/QmQQkDpadEmnZ38DGXsUgy5fsQ9JdWtTvhySFXpKwj3bCC"
+			]
+		}
+	},
+	"version": 1
+}
