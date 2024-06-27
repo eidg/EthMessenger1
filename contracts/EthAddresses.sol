@@ -9,7 +9,14 @@ contract EthAddresses {
     function setMyAddress (address _myAddress) public {
 
         myAddress = _myAddress;
-        
+
+    }
+
+    //getter function to get the balance of the address
+    function getAddressBalance (uint) public view returns(uint) {
+
+        return myAddress.balance;
+
     }
 
 }
